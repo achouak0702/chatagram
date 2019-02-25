@@ -72,6 +72,7 @@ export default class ChatScreen extends React.Component {
   render() {
     return (
       <View style={styles.container}>
+      <Text>LALA</Text>
         {
           this.state.imageEmail
           &&
